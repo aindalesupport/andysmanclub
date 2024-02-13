@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /*?refinementList
+Disallow: /*?sortBy
+Disallow: /*?aroundLatLng
+Sitemap: https://andysmanclub.co.uk/sitemap/sitemap-0.xml
+Host: https://andysmanclub.co.uk
