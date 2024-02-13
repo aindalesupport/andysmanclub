@@ -1,0 +1,7 @@
+/*!
+ * storyblok-js-client v4.5.2
+ * Universal JavaScript SDK for Storyblok's API
+ * (c) 2020-2022 Stobylok Team
+ */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
